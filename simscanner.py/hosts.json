@@ -1,0 +1,12 @@
+{
+    "localhost_sim": {
+        "22": "open",
+        "80": "closed",
+        "443": "open"
+    },
+    "dev_server": {
+        "21": "open",
+        "22": "closed",
+        "8080": "open"
+    }
+}
